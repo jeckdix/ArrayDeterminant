@@ -1,0 +1,14 @@
+C:\Users\jidex\Code\ArrayDeterminant\bin\Debug\net8.0\ArrayDeterminant.exe
+C:\Users\jidex\Code\ArrayDeterminant\bin\Debug\net8.0\ArrayDeterminant.deps.json
+C:\Users\jidex\Code\ArrayDeterminant\bin\Debug\net8.0\ArrayDeterminant.runtimeconfig.json
+C:\Users\jidex\Code\ArrayDeterminant\bin\Debug\net8.0\ArrayDeterminant.dll
+C:\Users\jidex\Code\ArrayDeterminant\bin\Debug\net8.0\ArrayDeterminant.pdb
+C:\Users\jidex\Code\ArrayDeterminant\obj\Debug\net8.0\ArrayDeterminant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jidex\Code\ArrayDeterminant\obj\Debug\net8.0\ArrayDeterminant.AssemblyInfoInputs.cache
+C:\Users\jidex\Code\ArrayDeterminant\obj\Debug\net8.0\ArrayDeterminant.AssemblyInfo.cs
+C:\Users\jidex\Code\ArrayDeterminant\obj\Debug\net8.0\ArrayDeterminant.csproj.CoreCompileInputs.cache
+C:\Users\jidex\Code\ArrayDeterminant\obj\Debug\net8.0\ArrayDeterminant.dll
+C:\Users\jidex\Code\ArrayDeterminant\obj\Debug\net8.0\refint\ArrayDeterminant.dll
+C:\Users\jidex\Code\ArrayDeterminant\obj\Debug\net8.0\ArrayDeterminant.pdb
+C:\Users\jidex\Code\ArrayDeterminant\obj\Debug\net8.0\ArrayDeterminant.genruntimeconfig.cache
+C:\Users\jidex\Code\ArrayDeterminant\obj\Debug\net8.0\ref\ArrayDeterminant.dll
